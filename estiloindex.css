@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{
+    font-size: 20px;
+}
+
+nav, aside, header, section, footer{
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+
+div{
+    width: 930px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header{
+    background: #ffeaa7;
+    border: 1px solid #999999;
+    padding: 10px;
+}
+
+.menu{
+    background: #ccc;
+    padding: 15px;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px;
+    display: inline-block;
+}
+
+.seccion{
+    margin: 20px;
+    width: 600px;
+}
+.imagenflor{
+    width: 250px;
+}

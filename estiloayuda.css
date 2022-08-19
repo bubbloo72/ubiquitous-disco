@@ -1,0 +1,8 @@
+.body h1{
+    border: 1px solid black;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 400px;
+    text-align: center;
+    margin-left: 500px;
+}
